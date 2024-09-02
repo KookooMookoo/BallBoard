@@ -1,0 +1,28 @@
+body {
+    min-height: 100vh;
+    background-color: #101010;
+    color: white;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.cell {
+    width: 3em;
+    height: 3em;
+}
+
+.cell img {
+    width: 1.2em;
+    height: auto;
+}
+
+.floor {
+    background-color: gray;
+}
+
+.wall {
+    background-color: brown;
+}
